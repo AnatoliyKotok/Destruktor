@@ -1,0 +1,5 @@
+﻿  Header.cpp
+  Source.cpp
+C:\Users\Anatoliy\source\repos\Destr\Destr\Source.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Destr.vcxproj -> C:\Users\Anatoliy\source\repos\Destr\Debug\Destr.exe
